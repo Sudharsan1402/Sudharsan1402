@@ -24,7 +24,8 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/<Sudharsan1402>/<Sudharsan1402>/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/<Sudharsan1402>/<Sudharsan1402>/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sudharsan1402&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
