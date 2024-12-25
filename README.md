@@ -2,8 +2,13 @@
 
 
 
-Hi there! 👋 I’m a passionate Full Stack Developer and aspiring Data Analyst studying at SJCE. With expertise in Python, Java, C++, HTML, CSS, JavaScript, and SQL, I enjoy crafting user-friendly solutions and analyzing data to uncover insights. 💡<br><br>I’ve interned as a Test Engineer, worked on Arduino bootloading, and will soon join as a Full Stack Data Analytics Intern at IQMath Technologies. 🚀 My toolkit also includes Excel, Power BI, and Machine Learning to solve complex problems. 📊<br><br>When I’m not coding or solving problems on LeetCode, I’m collaborating with peers in the OSA Club or diving into new tech trends. Let’s connect! 🤝
-
+👨‍💻 Full Stack Developer & Aspiring Data Analyst.
+🐍 Proficient in Python, Java, C++, HTML, CSS, JS & SQL.
+🚀 Former Test Engineer Intern; soon-to-be Full Stack Data Analytics Intern @ IQMath Technologies.
+📊 Skilled in Excel, Power BI, and Machine Learning.
+💡 Passionate about crafting solutions & uncovering insights.
+🔍 Active LeetCode problem solver & OSA Club collaborator.
+🌟 Always exploring tech trends & learning new skills.
 ## 💻 Coding in Action
 ![Coding GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
