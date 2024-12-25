@@ -24,7 +24,8 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/<Sudharsan1402>/<Sudharsan1402>/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://raw.githubusercontent.com/<Sudharsan1402>/<Sudharsan1402>/output/dist/github-contribution-grid-snake.svg)
+
 
 
 # 📊 GitHub Stats:
