@@ -24,7 +24,7 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/<Sudharsan1402>/<Sudharsan1402>/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/<Sudharsan1402>/<Sudharsan1402>/output/github-contribution-grid-snake.svg)
 
 
 
