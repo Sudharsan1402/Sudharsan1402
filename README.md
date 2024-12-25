@@ -1,6 +1,9 @@
 # 💫 About Me:
 ## 💻 Coding in Action
-![Coding GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+<div align="right">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF">
+</div>
+
 
 Hi there! 👋 I’m a passionate Full Stack Developer and aspiring Data Analyst studying at SJCE. With expertise in Python, Java, C++, HTML, CSS, JavaScript, and SQL, I enjoy crafting user-friendly solutions and analyzing data to uncover insights. 💡<br><br>I’ve interned as a Test Engineer, worked on Arduino bootloading, and will soon join as a Full Stack Data Analytics Intern at IQMath Technologies. 🚀 My toolkit also includes Excel, Power BI, and Machine Learning to solve complex problems. 📊<br><br>When I’m not coding or solving problems on LeetCode, I’m collaborating with peers in the OSA Club or diving into new tech trends. Let’s connect! 🤝
 
