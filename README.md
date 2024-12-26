@@ -13,9 +13,14 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sudharsan1402)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Sudharsan1402)  
-
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/sudharsan1402" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" style="height: 40px;">
+  </a>
+  <a href="https://github.com/Sudharsan1402" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Badge" style="height: 40px;">
+  </a>
+</div>
 
 ## 💻 Coding in Action
 ![Coding GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
