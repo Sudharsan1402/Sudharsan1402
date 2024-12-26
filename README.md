@@ -2,12 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sudharsan!;" />
 </h1>
 
-- 👨‍💻 Full Stack Developer & Aspiring Data Analyst @ SJCE.  
-- 🐍 Proficient in Python, Java, C++, HTML, CSS, JS & SQL.  
-- 📊 Skilled in Excel, Power BI, and Machine Learning.  
-- 💡 Passionate about crafting solutions & uncovering insights.  
-- 🔍 Active LeetCode problem solver & OSA Club collaborator.  
-- 🌟 Always exploring tech trends & learning new skills.  
+# 👨‍💻 **Full Stack Developer & Aspiring Data Analyst**  
+🎓 **Student @ SJCE | Tech Enthusiast | Problem Solver**
+
+💻 **Tech Stack**: Python 🐍 | Java ☕ | C++ 💻 | HTML 🌐 | CSS 🎨 | JavaScript ⚡ | SQL 🗄️  
+📊 **Tools**: Excel | Power BI | Machine Learning 🤖  
+🌟 **Passionate About**: Innovation 💡 | Insights 🔍 | Tech Trends 🚀 | Collaboration 🤝  
+
+### 🌟 *"Always Learning. Always Growing."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-username)  
+
 
 ## 💻 Coding in Action
 ![Coding GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
